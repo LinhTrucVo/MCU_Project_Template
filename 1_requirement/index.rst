@@ -1,9 +1,9 @@
-SW Feature Requirement Template
-#################################
+SW Feature Requirement
+######################
 
 This list out the software feature requirements for the project.
 
 ..  toctree::
     :maxdepth: 1
 
-    feature1/index.rst
+    _feature1/index.rst

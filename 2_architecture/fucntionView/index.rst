@@ -1,9 +1,17 @@
-SW Function Architecture Template
-#################################
+SW Function Architecture
+########################
 
-This list out the software functions for the project.
+This document describes the software function architecture.
 
+Architecture Overview
+*********************
 ..  toctree::
     :maxdepth: 1
 
-    function1/index.rst
+    _function1/index.rst
+Information Flow
+****************
+
+Design Principles
+*****************
+
